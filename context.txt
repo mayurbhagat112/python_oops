@@ -1,0 +1,18 @@
+1. Class and Obj (example)
+2. class has data/attribute and function/method
+   > code walkthrough
+   > attribute get called itself,methods are called manually
+3. what is speciality of constructor or special method init?
+- create a function optionally pass the data.
+when we developer a software using oops concept constructor funtionlity user intiated that thing in backend connect with Database non tech user dont know about it.
+these all define under the constructor 
+in realife constructor use properties and data type define user do this manually 
+
+4. why python is called oop? everything in python is an object (data structure,data type etc)
+
+
+5. Advantages of oops:
+    > you can create your own datatype
+    > code reusability as template
+    > debugging from staring to end there high chance
+    > easy to colab.
