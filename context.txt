@@ -16,3 +16,14 @@ in realife constructor use properties and data type define user do this manually
     > code reusability as template
     > debugging from staring to end there high chance
     > easy to colab.
+
+
+6  End to End project
+   > function vs method
+   > magic method vs dunder method
+   > self
+   > you can create attribute outside class as well as
+   > encapsulation
+   > getter and setter
+   > static method
+   > inheritance
